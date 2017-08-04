@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-backend-tests",
+  "version": "1.0.0",
+  "description": "Testing my boot camp exercises",
+  "main": "test",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "thabiso",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.4.1"
+  }
+}
